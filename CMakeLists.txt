@@ -1,4 +1,4 @@
-SET(PNAME "TLibC")
+SET(PNAME "tlibc")
 SET(PONAME "tlibc")
 project(${PNAME})
 
